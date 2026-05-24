@@ -1,13 +1,12 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on ... DDIC design house
+- 🌱 I’m currently learning ... Local AI Agent
+- 👯 I’m looking to collaborate on ... image process
+- 
 <!--
 **Longgece/Longgece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... DDIC design house
-- 🌱 I’m currently learning ... Local AI Agent
-- 👯 I’m looking to collaborate on ... image process
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
